@@ -1,0 +1,16 @@
+body{
+    color: #1D1D1D1D;
+}
+.navbar-light{
+    background-color: white;
+}
+.navbar-brand img{
+    height: 70px;
+}
+.btn-purple{
+    background-color: #4A154B;
+    color: white;
+}
+.btn-purple:hover{
+    color: white;
+}
