@@ -1,3 +1,4 @@
+
 .navbar-light{
     background-color: white;
 }
@@ -26,12 +27,16 @@ h1{
     font-weight: bold;
     font-size: 64px;
 }
+h2{
+    font-weight: bold;
+    font-size: 32px;
+}
 p{
     font-size: 16px;
     line-height: 23px;   
 }
 .section{
-    margin: 5% 0 5% 0;
+    margin: 5% 0 10% 0;
 }
 .hero-title{
     width: 90%;
@@ -56,3 +61,22 @@ p{
     margin-left: 0px !important;
 }
 
+.section-title{
+    text-align: center;
+    width: 80%;
+    display: grid;
+    margin: auto;
+}
+.dark-bg{
+    background-color: #F5F5F5;
+    padding: 20px;
+}
+.card-text{
+    text-align: center;
+}
+.purple-bg{
+    background-color: #4A154B;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
